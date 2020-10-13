@@ -8,7 +8,7 @@ import java.util.*;
  */
 public class MathBox {
 
-    private ArrayList<Number> nums = new ArrayList<>();
+    private List<Number> nums = new ArrayList<>();
 
     /**
      * Конструктор
